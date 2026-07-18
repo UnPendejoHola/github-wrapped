@@ -41,7 +41,7 @@ export default function Home() {
             </h1>
           </div>
         </div>
-        <p className="mb-10 text-lg text-zinc-500">Tu ano en GitHub, en una experiencia visual</p>
+        <p className="mb-10 text-lg text-zinc-500">Tu año en GitHub, en una experiencia visual</p>
 
         <form onSubmit={handleSubmit} className="mx-auto max-w-md">
           <div className="flex gap-3">

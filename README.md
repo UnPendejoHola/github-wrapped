@@ -5,7 +5,7 @@ Tus estadisticas de GitHub en una experiencia visual estilo Spotify Wrapped. 7 s
 ## Como funciona
 
 Entra con tu usuario de GitHub y la app genera automaticamente:
-- Tus contribuciones del ultimo ano
+- Tus contribuciones del ultimo año
 - Lenguajes mas usados con graficos
 - Rachas de contribuciones
 - Mejores repositorios
